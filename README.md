@@ -40,7 +40,7 @@ Contém as seguintes sessões :
   <img alt="OriginSix" src="assets/preview.png" width="100%">
 </p>
 
-Aqui você pode visualizar o layout do projeto: [Link](https://paulosantana95.github.io/commercial-landing-page-nlw-06/)
+Aqui você pode visualizar o layout do projeto: [Link](https://natanaelpj.github.io/OriginSix.github.io./)
 
 ---
 
