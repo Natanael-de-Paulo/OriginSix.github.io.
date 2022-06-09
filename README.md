@@ -42,7 +42,7 @@ Contém as seguintes sessões :
   <img alt="OriginSix" src="assets/preview.png" width="100%">
 </p>
 
-Aqui você pode visualizar o layout do projeto: [Link]([https://natanaelpj.github.io/OriginSix.github.io./](https://natanael-de-paulo.github.io/OriginSix.github.io./))
+Aqui você pode visualizar o layout do projeto: [Link](https://natanael-de-paulo.github.io/OriginSix.github.io./)
 
 ---
 
